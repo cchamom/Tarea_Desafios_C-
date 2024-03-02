@@ -1,0 +1,15 @@
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\bin\Debug\net8.0\DESAFIO 3.exe
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\bin\Debug\net8.0\DESAFIO 3.deps.json
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\bin\Debug\net8.0\DESAFIO 3.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\bin\Debug\net8.0\DESAFIO 3.dll
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\bin\Debug\net8.0\DESAFIO 3.pdb
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\DESAFIO 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\DESAFIO 3.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\DESAFIO 3.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\DESAFIO 3.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\DESAFIO 3.sourcelink.json
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\DESAFIO 3.dll
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\refint\DESAFIO 3.dll
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\DESAFIO 3.pdb
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\DESAFIO 3.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Desafio Metodos C#\DESAFIO 3\obj\Debug\net8.0\ref\DESAFIO 3.dll

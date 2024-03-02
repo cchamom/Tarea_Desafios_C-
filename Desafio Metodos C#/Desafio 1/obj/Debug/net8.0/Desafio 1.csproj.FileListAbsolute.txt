@@ -1,0 +1,15 @@
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\bin\Debug\net8.0\Desafio 1.exe
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\bin\Debug\net8.0\Desafio 1.deps.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\bin\Debug\net8.0\Desafio 1.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\bin\Debug\net8.0\Desafio 1.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\bin\Debug\net8.0\Desafio 1.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\Desafio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\Desafio 1.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\Desafio 1.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\Desafio 1.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\Desafio 1.sourcelink.json
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\Desafio 1.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\refint\Desafio 1.dll
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\Desafio 1.pdb
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\Desafio 1.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Tarea C#Basico\Desafio 1\obj\Debug\net8.0\ref\Desafio 1.dll
